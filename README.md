@@ -8,3 +8,4 @@
 ### module List
 1. prior_encoder (Priority Encoder)
 2. arbiter (Round-robin Arbiter)
+2. sync_fifo (Synchronous FIFO)
