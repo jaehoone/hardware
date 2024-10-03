@@ -9,3 +9,4 @@
 1. prior_encoder (Priority Encoder)
 2. arbiter (Round-robin Arbiter)
 2. sync_fifo (Synchronous FIFO)
+2. gearbox_fifo (Synchronous GearBox FIFO)
