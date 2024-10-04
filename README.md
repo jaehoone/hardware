@@ -8,5 +8,6 @@
 ### module List
 1. prior_encoder (Priority Encoder)
 2. arbiter (Round-robin Arbiter)
-2. sync_fifo (Synchronous FIFO)
-2. gearbox_fifo (Synchronous GearBox FIFO)
+3. sync_fifo (Synchronous FIFO)
+4. gearbox_fifo (Synchronous GearBox FIFO)
+5. barrel_shifter (Barrel Shifter)
