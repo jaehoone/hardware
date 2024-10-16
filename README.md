@@ -11,3 +11,5 @@
 3. sync_fifo (Synchronous FIFO)
 4. gearbox_fifo (Synchronous GearBox FIFO)
 5. barrel_shifter (Barrel Shifter)
+6. divider (Divider)
+7. doorbell (Doorbell)
